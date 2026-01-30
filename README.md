@@ -2,18 +2,7 @@
   <h1>Olá Mundo! Eu sou Lucas Castro! 👋</h1>
   <p>Desenvolvedor Full Stack apaixonado por transformar café em código eficiente.</p>
 </div>
-
-<div align="center">
-  <a href="https://github.com/lucascastro-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascastro-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/lucascastro-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascastro-dev&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
-  </a>
-</div>
-
 <br/>
-
 <div align="center">
   <h3>🛠 Tecnologias e Ferramentas</h3>
   
@@ -47,7 +36,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascastro-dev&theme=tokyonight" alt="GitHub Streak" />
-</div>
