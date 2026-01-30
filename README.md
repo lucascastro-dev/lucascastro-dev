@@ -2,7 +2,6 @@
   <h1>Olá Mundo! Eu sou Lucas Castro! 👋</h1>
   <p>Desenvolvedor Full Stack apaixonado por transformar café em código eficiente.</p>
 </div>
-<br/>
 <div align="center">
   <h3>🛠 Tecnologias e Ferramentas</h3>
   
